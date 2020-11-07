@@ -1,0 +1,3 @@
+2f6ae466ec9b7c6255e997b82f162ae88bfe640a8df16d3e2f495b6281120af9 *linuxmint-20-cinnamon-64bit.iso
+42fd764b3a3544a36d820f4164bb64aa5a6d982073e6d1afdea4853d3858fc98 *linuxmint-20-mate-64bit.iso
+761fb276da9746a068f4c8aa42e8d4981f352db92babe0ef8a08713eeb38246f *linuxmint-20-xfce-64bit.iso
